@@ -1,0 +1,16 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+credentials.json
+secrets.json
+
+# Local development files
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
