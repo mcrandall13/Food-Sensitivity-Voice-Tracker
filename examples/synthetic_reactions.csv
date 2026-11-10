@@ -1,0 +1,4 @@
+Entry type,Food,Quantity,Unit,When consumed,Symptoms,Severity,Onset,Notes
+Meal / exposure,oatmeal,1,cup,sample day 8:00 AM,,,,Fictional demonstration only
+Reaction,yogurt,1,tablespoon (tbsp),sample day 9:00 AM,Gas,1 — Mild,2–6 hours,Fictional demonstration only
+Tolerated food,crackers,2,each,sample day 3:00 PM,None,0 — None,No symptoms,Fictional demonstration only
